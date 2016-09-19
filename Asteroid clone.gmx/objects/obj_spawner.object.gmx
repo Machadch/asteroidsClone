@@ -106,7 +106,7 @@ if (!instance_exists(obj_asteroidLarge)) {
     }
 }
 
-if (global.points / 3500) &gt; global.livesGained {
+if (global.points / 5000) &gt; global.livesGained {
     global.livesGained += 1;
     global.life += 1;
     instance_create(room_width/2,room_height/2,obj_extralife)

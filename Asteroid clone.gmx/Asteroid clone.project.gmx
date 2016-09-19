@@ -27,6 +27,8 @@
     <sprite>sprites\spr_btnQuit</sprite>
     <sprite>sprites\spr_instructions</sprite>
     <sprite>sprites\spr_extraLife</sprite>
+    <sprite>sprites\spr_superLaser</sprite>
+    <sprite>sprites\spr_laserPowerup</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bg_stars</background>
@@ -51,6 +53,8 @@
     <object>objects\btn_quit</object>
     <object>objects\obj_instructions</object>
     <object>objects\obj_extralife</object>
+    <object>objects\obj_laser</object>
+    <object>objects\obj_laserPowerup</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_titleScreen</room>

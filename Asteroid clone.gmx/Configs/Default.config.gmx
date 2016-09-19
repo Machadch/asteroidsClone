@@ -216,7 +216,7 @@
     <option_freeze>false</option_freeze>
     <option_frequency>0</option_frequency>
     <option_frontimage>nil</option_frontimage>
-    <option_fullscreen>True</option_fullscreen>
+    <option_fullscreen>False</option_fullscreen>
     <option_gameguid>{8564CFDC-C01C-4F34-B1B9-EDABE2CC6D2C}</option_gameguid>
     <option_gameid>626933228</option_gameid>
     <option_haptic_effects>0</option_haptic_effects>
@@ -344,7 +344,7 @@
     <option_mac_build_version>0</option_mac_build_version>
     <option_mac_copyright_info>(c)2012 CompanyName Ltd...</option_mac_copyright_info>
     <option_mac_create_app_store>-1</option_mac_create_app_store>
-    <option_mac_display_name>Asteroid clone</option_mac_display_name>
+    <option_mac_display_name>Boofteroids</option_mac_display_name>
     <option_mac_enable_steam>0</option_mac_enable_steam>
     <option_mac_fullscreen>0</option_mac_fullscreen>
     <option_mac_icon_png>Configs\Default\mac\icon512.png</option_mac_icon_png>
